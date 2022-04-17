@@ -5,9 +5,10 @@ Roxo Hugo is a digital agency Hugo theme for creative agencies,  freelancers, gr
 
 ## Table of Contents
 
+- [Table of Contents](#table-of-contents)
 - [Live Demo](#live-demo)
 - [Installation](#installation)
-- [Main Features](#features)
+- [Features](#features)
 - [Support](#support)
 - [Licensing](#licensing)
 - [Hire](#hire)
@@ -29,7 +30,7 @@ Checkout the live demo [here](https://roxo-hugo.staticmania.com/)
 ## Features
 
 * Responsive Ready.
-* Powered by Bootstrap 4.
+* Powered by Bootstrap 5.
 * Dedicated portfolio page.
 * Blog Support.
 * Well formatted code.
